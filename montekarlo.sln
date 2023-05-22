@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "montekarlo", "montekarlo\montekarlo.csproj", "{D829823D-35C4-46B8-B6DC-8D8BDFC3965D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D829823D-35C4-46B8-B6DC-8D8BDFC3965D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D829823D-35C4-46B8-B6DC-8D8BDFC3965D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D829823D-35C4-46B8-B6DC-8D8BDFC3965D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D829823D-35C4-46B8-B6DC-8D8BDFC3965D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73835A0F-C03E-4BF8-96CB-34BD013B79BD}
+	EndGlobalSection
+EndGlobal
